@@ -69,7 +69,7 @@ jobs:
           message: |
             <b>New Kernel Build found..! 🎉</b>
 
-            <b>Device :</b> Note 10 (d1)  
+            <b>Device :</b> Note 10+ (d2s)  
             <b>Kernel Version :</b> ${{ env.LPOS_KERNEL_VERSION }}                    
             <b>Repository:</b> <a href="https://github.com/${{ github.repository }}">${{ github.repository }}</a>
             
